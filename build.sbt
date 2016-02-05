@@ -1,5 +1,5 @@
 
-name := "play-shiro"
+name := "play-java-shiro"
 
 version := "1.1.0"
 
